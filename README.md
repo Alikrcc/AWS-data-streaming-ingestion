@@ -5,7 +5,6 @@ Bu proje, gerçek zamanlı veri akışlarını (streaming data) AWS üzerinde in
 Amaç, IoT cihazları veya uygulamalardan gelen yüksek hacimli veriyi güvenilir bir şekilde toplamak ve uzun vadeli analiz için saklamaktır.
 
 ## 🏗️ Mimari
-![Architecture]
 
 <img width="1694" height="953" alt="Streaming Ingestion" src="https://github.com/user-attachments/assets/ef8da1d7-3cac-4aff-96c3-d8981509b8eb" />
 
